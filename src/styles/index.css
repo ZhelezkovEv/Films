@@ -1,0 +1,12 @@
+body {
+    font-family: 'Roboto', sans-serif;
+    background-color: #eaeefa;
+}
+
+.main-layout {
+    padding: 0 20px;
+}
+
+.featured-icon {
+    pointer-events: none;
+}

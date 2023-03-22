@@ -1,0 +1,11 @@
+{
+  "name": "js-master",
+  "version": "1.0.0",
+  "description": "Галерея фильмов на чистом JS",
+  "main": "index.js",
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "prettier": "^2.8.4"
+  }
+}
